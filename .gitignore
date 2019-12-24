@@ -1,0 +1,4 @@
+## .gitignore file for luagit2-scaffold
+
+## ignore folder fetched through gclient
+luagit2
